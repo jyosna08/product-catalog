@@ -1,0 +1,17 @@
+# Task Manager Application
+
+A Single Page Task Manager Application built using Vanilla JavaScript.
+
+## Features
+
+- Create Task
+- Edit Task
+- Delete Task
+- Search Task
+- Local Storage Persistence
+
+## Technologies Used
+
+- HTML
+- CSS
+- Vanilla JavaScript
